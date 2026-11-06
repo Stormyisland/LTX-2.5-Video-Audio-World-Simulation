@@ -1,2 +1,2 @@
-# LTX-2.5-Video-Audio-World-Simulation
-LTX-2.5 — Video, Audio &amp; World Simulation
+# LTX-2.5-Text_to_Video
+LTX-2.5 — Video
